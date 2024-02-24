@@ -31,6 +31,7 @@
 ## entrap
 
 - when "on attacked", it is not activated if enemy assault is destroyed by main attack
+- adds additional counter skill to unit (additive power: counter 5 + entrap 5 + entrap 5 = counter 15)
 
 
 ## mimic
@@ -45,9 +46,11 @@
   - heal
   - rally
   - fortify
+  - strike
 - some skills are not affected
   - leech
   - berserk
+  - hunt
 
 
 ## summon
