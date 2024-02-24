@@ -1,4 +1,4 @@
-# Terminology
+# terminology
 
 - main attack: physical unit attack by number in lower left corner, not by strike, hunt, etc
 - permanently: until win/lose/draw of the current battle
@@ -7,7 +7,7 @@
 - opposing adjacent enemy units = enemy units to the left and right of opposing enemy unit
 
 
-# Skill notes
+# skill notes
 
 ## absorb N
 
@@ -39,11 +39,35 @@
 - is not affected by enemy's evade skill
 
 
+## sabotage N
+
+- reduces power of enemy unit's skills by N
+  - heal
+  - rally
+  - fortify
+- some skills are not affected
+  - leech
+  - berserk
+
+
+## summon
+
+- activates once when cooldown reaches zero for the first time
+- new unit is summoned even if existing unit is jammed
+
+
+## sunder X
+
+- weakens enemy unit's main attack by X
+- sundered units cannot gain attack from:
+  - rally
+  - allegiance
+- sundered units can gain attack from:
+  - berserk
+
+
 ## swipe
 
 - activates if attack greater than zero, even if protect/barrier on opposing enemy unit causes damage to be zero
 - for opposing adjacent enemy units, armor does not reduce damage, but protect/barrier does
 - for opposing adjacent enemy units, enfeebled units do take increased damage
-
-
-# Skills
