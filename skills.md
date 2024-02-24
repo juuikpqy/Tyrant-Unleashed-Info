@@ -13,10 +13,10 @@
 
 - does _not_ heal for absorbed amount
 - nullifies up to N damage from skills each turn
-  - strike
-  - mortar
   - counter
+  - mortar
   - poison
+  - strike
 - does not nullify damage from skills
   - hunt
   - swipe
@@ -50,14 +50,15 @@
 ## sabotage N
 
 - reduces power of enemy unit's skills by N
+  - fortify
   - heal
   - rally
-  - fortify
   - strike
 - some skills are not affected
-  - leech
+  - allegiance
   - berserk
   - hunt
+  - leech
 
 
 ## summon
@@ -70,8 +71,8 @@
 
 - weakens enemy unit's main attack by X
 - sundered units cannot gain attack from:
-  - rally
   - allegiance
+  - rally
 - sundered units can gain attack from:
   - berserk
 
