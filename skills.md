@@ -57,6 +57,7 @@
 - some skills are not affected
   - allegiance
   - berserk
+  - evade
   - hunt
   - leech
 
