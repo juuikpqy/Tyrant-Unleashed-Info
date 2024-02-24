@@ -34,6 +34,13 @@
 - adds additional counter skill to unit (additive power: counter 5 + entrap 5 + entrap 5 = counter 15)
 
 
+## hunt N
+
+- activates if attack greater than zero
+- leftmost enemy assault is damaged by N, and amount can be reduced by enemy's protect/barrier
+- hunt cannot be evaded
+
+
 ## mimic
 
 - only targets enemy units with mimicable skills
