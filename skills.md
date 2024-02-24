@@ -66,7 +66,7 @@
 - new unit is summoned even if existing unit is jammed
 
 
-## sunder X
+## sunder N
 
 - weakens enemy unit's main attack by X
 - sundered units cannot gain attack from:
