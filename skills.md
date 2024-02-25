@@ -57,10 +57,12 @@
 - some skills are not affected
   - allegiance
   - berserk
+  - corrosive
   - evade
   - hunt
   - leech
   - mark
+  - scavenge
 
 
 ## summon
