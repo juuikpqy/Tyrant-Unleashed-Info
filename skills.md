@@ -76,6 +76,8 @@
   - rally
 - sundered units can gain attack from:
   - berserk
+- can be used to complete daily quests which require weaken skill
+  - each activation of sunder counts towards weaken for quest
 
 
 ## swipe
